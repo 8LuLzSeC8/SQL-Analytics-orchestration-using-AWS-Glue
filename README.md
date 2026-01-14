@@ -1,8 +1,10 @@
-# Day 12–13: Advanced SQL Transformations with Governance & Version Control
+# Using AWS Glue to orchestrate analytics flow
 
 This repository demonstrates an analytics engineering workflow focused on
 advanced SQL transformations, data quality validation, governance, and
 orchestration using AWS Glue and PostgreSQL (RDS).
+
+It takes data in the curated layer of a s3 bucket and transforms it to business ready data to query in RDS.
 
 The implementation aligns with the Day 12–13 hands-on objectives:
 - Modular SQL transformations
