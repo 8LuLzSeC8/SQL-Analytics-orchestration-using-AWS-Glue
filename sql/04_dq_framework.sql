@@ -6,6 +6,8 @@
 -- Quality expectations:
 --   - Every test run writes an auditable PASS/FAIL row
 --   - Test results are append-only (do not update history)
+-- Change Log:
+--   - 2024-06-10: Initial version
 -- =============================================================================
 
 BEGIN;

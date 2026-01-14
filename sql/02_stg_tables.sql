@@ -1,3 +1,12 @@
+--==============================================================================
+-- Author: Data Engineering Team
+-- Owner: Analytics Engineering
+-- Purpose: Staging table for enriched taxi trips data (with MDM zones)
+-- Dependencies: None
+-- Change Log:
+--   - 2024-06-10: Initial version
+--==============================================================================
+
 BEGIN;
 
 CREATE SCHEMA IF NOT EXISTS stg;

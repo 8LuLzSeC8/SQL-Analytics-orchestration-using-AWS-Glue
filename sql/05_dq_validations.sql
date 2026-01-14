@@ -6,6 +6,8 @@
 --   - core.fct_trips
 -- Quality expectations:
 --   - This query returns a single row of key DQ metrics for monitoring/testing
+-- Change Log:
+--   - 2024-06-10: Initial version
 -- =============================================================================
 
 WITH base AS (

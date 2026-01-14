@@ -14,6 +14,8 @@
 --   - Zone & ratecode enrichment measured via DQ tests (no fallback)
 -- Grain: 1 row per trip
 -- Refresh: Full rebuild (TRUNCATE + INSERT)
+-- Change Log:
+--   - 2024-06-10: Initial version
 -- =============================================================================
 
 BEGIN;

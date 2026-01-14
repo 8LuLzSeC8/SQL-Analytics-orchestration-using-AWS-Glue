@@ -8,6 +8,8 @@
 --   - dq.test_results
 -- Quality expectations:
 --   - Each run writes one row per test into dq.test_results
+-- Change Log:
+--   - 2024-06-10: Initial version
 -- =============================================================================
 
 WITH m AS (
